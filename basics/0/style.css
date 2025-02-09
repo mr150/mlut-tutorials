@@ -1,0 +1,53 @@
+/*
+Btn
+
+Helper for creating buttons. Prepares any element to styling as a button.
+
+Markup: ../../../docs/examples/css_lib-helpers/btn/btn.html
+
+Styleguide: css_lib.helpers.btn
+*/
+.btn {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  line-height: inherit;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+.M0 {
+  margin: 0px;
+}
+
+.D-f {
+  display: flex;
+}
+
+.Fld-c {
+  flex-direction: column;
+}
+
+.Ai-c {
+  align-items: center;
+}
+
+.Jc-c {
+  justify-content: center;
+}
+
+.H100vh {
+  height: 100vh;
+}
+
+.Mt8r {
+  margin-top: 8rem;
+}
+
+.Fns1\.5r {
+  font-size: 1.5rem;
+}
