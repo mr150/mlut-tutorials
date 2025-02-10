@@ -44,10 +44,18 @@ Styleguide: css_lib.helpers.btn
   height: 100vh;
 }
 
+.Fnf-mUss {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
 .Mt8r {
   margin-top: 8rem;
 }
 
-.Fns1\.5r {
-  font-size: 1.5rem;
+.Fns1\.4r {
+  font-size: 1.4rem;
+}
+
+.Mxw-gLg {
+  max-width: 992px;
 }
